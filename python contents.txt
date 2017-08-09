@@ -182,7 +182,7 @@ XML, HTTP, SOAP, Network Programming, I18N, Unicode
 4.	Internet Data Handling & Encoding	1.	Network, web programming	1.	Unicode and Bytes Strings
 Miscellaneous
 8	None	1.	Algorithms
-2.	Cryptography
+2.	Cryptography ( Trying the git commands by assoua albert Ok. I see)
 3.	Data compression and archiving
 4.	Processes and Threads
 5.	Data persistence & exchange	1.	Extending & Embedding Python	1.	GUI	None
